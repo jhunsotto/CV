@@ -1,0 +1,17 @@
+body{
+  background-color: #eaf6f6;
+}
+
+h2,h3{
+  color: #0779e4;
+}
+hr{
+border-style: none;
+border-top-style: solid;
+border-color: grey;
+border-width: 5px;
+width: 100%;
+}
+p{
+  text-align: match-parent;
+}
